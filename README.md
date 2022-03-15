@@ -17,4 +17,5 @@ sequenceDiagram
     D-->>N: result
     N-)R: save cache
   end
+  N->>U: retrieve numbers
 ```
